@@ -1,0 +1,7 @@
+{
+    "name": "popo",
+    "repo": "niklasramo/popo",
+    "version": "1.0-rc1",
+    "main": "popo.js",
+    "scripts": [ "popo.js" ]
+}
